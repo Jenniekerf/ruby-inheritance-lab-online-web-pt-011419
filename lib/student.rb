@@ -1,3 +1,5 @@
-class Student 
+require_
+
+class Student < User
 
 end
