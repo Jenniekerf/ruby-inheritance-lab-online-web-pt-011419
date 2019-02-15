@@ -29,4 +29,4 @@ juju.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
-puts "Juju just learned: '#{juju.knowledge}' from Avi"
+puts "Juju just learned: '#{juju.knowledge.first}' from Avi"
