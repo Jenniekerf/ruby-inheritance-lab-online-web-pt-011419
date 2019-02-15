@@ -21,6 +21,5 @@ some_knowledge = avi.teach
 more_things = avi.teach 
 
 steve.learn(some_knowledge)
-steve.learn(more_things)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
