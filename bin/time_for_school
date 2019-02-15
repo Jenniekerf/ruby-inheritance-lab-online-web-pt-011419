@@ -27,5 +27,5 @@ some_knowledge = avi.teach
 steve.learn(some_knowledge)
 juju.learn(some_knowledge)
 
-puts steve.knowledge 
+puts steve.knowledge.first 
 
